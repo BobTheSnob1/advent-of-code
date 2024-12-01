@@ -7,7 +7,10 @@ while line != '':
     line = line.split('   ')
     a.append(line[0])
     b.append(line[1])
-    line = input()
+    try:
+        line = input()
+    except EOFError:
+        break
 
 a.sort()
 b.sort()

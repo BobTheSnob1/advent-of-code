@@ -7,7 +7,11 @@ while line != '':
     line = line.split('   ')
     a.append(int(line[0]))
     b.append(int(line[1]))
-    line = input()
+    try:
+        line = input()
+    except EOFError:
+        break
+
 
 similarity = 0
 
