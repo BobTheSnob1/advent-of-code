@@ -8,10 +8,6 @@ fi
 
 # Navigate to the specified directory
 DAY_DIR="day$1"
-if [ ! -d "$DAY_DIR" ]; then
-    echo "Directory $DAY_DIR does not exist."
-    exit 1
-fi
 
 cd "$DAY_DIR"
 
@@ -28,3 +24,14 @@ for py_file in *.py; do
         fi
     fi
 done
+
+# Create the directory and files if they do not exist
+if [ ! -d "$DAY_DIR" ]; then
+    mkdir "$DAY_DIR"
+    echo "Created directory $DAY_DIR"
+    
+    # Create the files
+    touch "$DAY_DIR/1.py" "$DAY_DIR/1.in" "$DAY_DIR/1.out"
+    touch "$DAY_DIR/2.py" "$DAY_DIR/2.in" "$DAY_DIR/2.out"
+    echo "Created files 1.py, 1.in, 1.out, 2.py, 2.in, 2.out in $DAY_DIR"
+fi
