@@ -35,3 +35,10 @@ else
         fi
     done
 fi
+if [ "$1" == "push" ]; then
+    current_day=$(date +%d)
+    git add .
+    git commit -m "day $current_day"
+    git push
+    echo "Pushed changes to GitHub with commit message 'Commit for day $current_day'"
+fi
