@@ -2,7 +2,7 @@
 
 # Check if an argument is provided
 if [ -z "$1" ]; then
-    echo "Usage: $0 <day_number>"
+    echo "Usage: $0 <day_number> | push | all"
     exit 1
 fi
 
@@ -14,7 +14,26 @@ if [ "$1" == "push" ]; then
     git commit -m "day $current_day"
     git push
     echo "Pushed changes to GitHub with commit message 'Commit for day $current_day'"
-else
+elif [ "$1" == "all" ]; then
+    for dir in day*/; do
+        if [ -d "$dir" ]; then
+            cd "$dir"
+            for py_file in *.py; do
+                if [ -f "$py_file" ]; then
+                    input_file="${py_file%.py}.in"
+                    output_file="${py_file%.py}.out"
+                    if [ -f "$input_file" ]; then
+                        python3 "$py_file" < "$input_file" > "$output_file"
+                        echo "Executed $py_file in $dir with input from $input_file and output to $output_file"
+                    else
+                        echo "Input file $input_file not found for $py_file in $dir"
+                    fi
+                fi
+            done
+            cd ..
+        fi
+    done
+elif [[ "$1" =~ ^[0-9]+$ ]]; then
     # Create the directory and files if they do not exist
     if [ ! -d "$DAY_DIR" ]; then
         mkdir "$DAY_DIR"
@@ -41,4 +60,8 @@ else
             fi
         done
     fi
+else
+    echo "Invalid argument: $1"
+    echo "Usage: $0 <day_number> | push | all"
+    exit 1
 fi
