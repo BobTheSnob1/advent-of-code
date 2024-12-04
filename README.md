@@ -11,6 +11,8 @@ usage:
 
 `bash run.sh [day]`: runs solutions as `python3 *.py < *.in > *.out` in the day's dir. if dir doesn't exist creates `day*/{1, 2}.{py, in, out}`.
 
+`bash run.sh push`: commits + pushes all directory contents with commit message "day XX" (day of the month)
+
 example:
 
 ```bash
