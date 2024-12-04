@@ -1,2 +1,4 @@
 github: [BobTheSnob1]
-UA: ['war.ukraine.ua']
+custom:
+  - url: war.ukraine.ua
+    label: "Support Ukraine <3"
