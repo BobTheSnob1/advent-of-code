@@ -1,0 +1,51 @@
+# tests whether NAME.py with NAME.in in stdin writes NAME.out to stdout.
+# written by chatgpt because i am just learning actions
+
+name: Test Input/Output
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request:
+    branches:
+      - "**"
+
+jobs:
+  test-python-in-out:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.x"
+
+    - name: Run Input/Output Tests
+      run: |
+        # Find all Python files
+        for pyfile in $(find . -name "*.py"); do
+          # Generate the corresponding .in and .out file names
+          base_name=$(basename "$pyfile" .py)
+          input_file=$(dirname "$pyfile")/$base_name.in
+          output_file=$(dirname "$pyfile")/$base_name.out
+
+          # Check if both .in and .out files exist
+          if [[ -f "$input_file" && -f "$output_file" ]]; then
+            # Run the Python file with the .in file as input
+            # Compare the output with the .out file
+            echo "Testing $pyfile..."
+            python "$pyfile" < "$input_file" | diff - "$output_file"
+
+            # If the diff command fails, exit with an error
+            if [[ $? -ne 0 ]]; then
+              echo "Test failed for $pyfile"
+              exit 1
+            fi
+          else
+            echo "Skipping $pyfile: Missing $input_file or $output_file"
+          fi
+        done
