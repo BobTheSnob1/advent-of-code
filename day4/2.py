@@ -40,7 +40,8 @@ def count_x_mas(grid):
 
     return count
 
-    for line in sys.stdin:
-        grid.append(line.strip())
 
-    print(count_x_mas(grid))
+for line in sys.stdin:
+    grid.append(line.strip())
+
+print(count_x_mas(grid))
