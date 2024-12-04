@@ -1,8 +1,5 @@
-github: [BobTheSnob1]
+github: BobTheSnob1
 
-patreon: test-username
-open_collective: test-username
+patreon: BobTheSnob1
 
-custom:
-  - url: war.ukraine.ua
-    label: "Support Ukraine <3"
+custom: war.ukraine.ua
