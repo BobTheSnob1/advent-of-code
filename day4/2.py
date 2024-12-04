@@ -1,3 +1,5 @@
+import sys
+
 grid = []
 
 
@@ -38,8 +40,7 @@ def count_x_mas(grid):
 
     return count
 
-
-with open('1.in'):
-    for line in open('1.in'):
+    for line in sys.stdin:
         grid.append(line.strip())
+
     print(count_x_mas(grid))

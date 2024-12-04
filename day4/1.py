@@ -1,3 +1,5 @@
+import sys
+
 grid = []
 
 
@@ -39,7 +41,7 @@ def count_xmas(grid, word="XMAS"):
     return count
 
 
-with open('1.in'):
-    for line in open('1.in'):
-        grid.append(line.strip())
-    print(count_xmas(grid))
+for line in sys.stdin:
+    grid.append(line.strip())
+
+print(count_xmas(grid))
