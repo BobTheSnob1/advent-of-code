@@ -7,6 +7,8 @@ if [ -z "$1" ]; then
 fi
 
 # Navigate to the specified directory
+YEAR_DIR=$(date +%Y)
+cd "$YEAR_DIR"
 DAY_DIR="day$1"
 if [ "$1" == "push" ]; then
     current_day=$(date +%d)

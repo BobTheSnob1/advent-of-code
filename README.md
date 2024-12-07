@@ -1,17 +1,17 @@
 # advent-of-code
 
-Richard's solutions for advent of code 2024.
+Richard's solutions for advent of code.
 
-see <https://adventofcode.com/2024>
+see <https://adventofcode.com/>
 
 ## run.sh
 
 This script automates the setup and execution of Advent of Code challenges.
 
-It supports three main operations: running scripts for a specific day, pushing changes to GitHub, and running all scripts.
+It supports three main operations: running scripts for a specific day, pushing changes to GitHub, and running all scripts. All commands run in the directory of the current year automatically.
 
 ### Usage:
-`./run.sh <day_number>`: Creates the directory and files for the specified day if they do not exist, and executes any Python scripts found in the directory.
+`./run.sh <day_number>`: Creates the directory and files for the specified day if they do not exist, or executes any Python scripts found in the directory if it does exist.
 
 `./run.sh push`: Commits all changes with a message containing the current day number and pushes to GitHub.
 
