@@ -17,6 +17,8 @@ It supports three main operations: running scripts for a specific day, pushing c
 
 `./run.sh all`: Executes all Python scripts in all day directories, using corresponding input files.
 
+`./run.sh --year [year] [command]`: Executes [command] in the specified [year] directory instead of the current one. Creates the year directory if not present.
+
 ### Arguments:
 `<day_number>`: The day number for which to create the directory and files, or to execute the scripts.
 

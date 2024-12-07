@@ -6,10 +6,19 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-# Navigate to the specified directory
-YEAR_DIR=$(date +%Y)
+if [[ "$1" == "--year" ]]; then
+    YEAR_DIR="$2"
+    shift 2
+    if [ ! -d "$YEAR_DIR" ]; then
+        mkdir "$YEAR_DIR"
+        echo "Created directory $YEAR_DIR"
+    fi
+else
+    YEAR_DIR=$(date +%Y)
+fi
 cd "$YEAR_DIR"
 DAY_DIR="day$1"
+
 if [ "$1" == "push" ]; then
     current_day=$(date +%d)
     git add .
