@@ -1,5 +1,4 @@
 # written by chatgpt i am just learning actions
-
 name: Flake8 Linter
 
 on:
@@ -31,8 +30,11 @@ jobs:
     - name: Get changed Python files
       id: changed-files
       run: |
-        git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '\.py$' || echo "" > changed_files.txt
-        echo "CHANGED_FILES=$(cat changed_files.txt)" >> $GITHUB_ENV
+        git diff --name-only --diff-filter=AM ${{ github.event.before }} ${{ github.sha }} | grep -E '\.py$' > changed_files.txt
+        if [ -s changed_files.txt ]; then
+          echo "CHANGED_FILES=$(cat changed_files.txt)" >> $GITHUB_ENV
+        else
+          echo "CHANGED_FILES=" >> $GITHUB_ENV
 
     - name: Run Flake8 on changed files
       run: |
