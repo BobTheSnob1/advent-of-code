@@ -16,8 +16,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -29,16 +27,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8
 
-    - name: Get all Python files
-      id: get-files
+    - name: Run Flake8
       run: |
-        find . -name "*.py" >> $GITHUB_ENV
-
-    - name: Run Flake8 on changed files
-      run: |
-        if [ -z "$CHANGED_FILES" ]; then
-          echo "No Python files changed. Skipping lint."
-        else
-          echo "Linting changed files: $CHANGED_FILES"
-          flake8 $CHANGED_FILES
-        fi
+        echo "Linting all Python files..."
+        flake8 $(find . -name "*.py")
