@@ -29,14 +29,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8
 
-    - name: Get changed Python files
-      id: changed-files
+    - name: Get all Python files
+      id: get-files
       run: |
-        git diff --name-only --diff-filter=AM ${{ github.event.before }} ${{ github.sha }} | grep -E '\.py$' > changed_files.txt
-        if [ -s changed_files.txt ]; then
-          echo "CHANGED_FILES=$(cat changed_files.txt)" >> $GITHUB_ENV
-        else
-          echo "CHANGED_FILES=" >> $GITHUB_ENV
+        find . -name "*.py" >> $GITHUB_ENV
 
     - name: Run Flake8 on changed files
       run: |
