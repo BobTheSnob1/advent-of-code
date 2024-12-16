@@ -13,23 +13,6 @@ def distance(x1, y1, x2, y2):
     return math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 
 
-def intersects(x, y, dx, dy, tx, ty):
-    if dx == 0 and dy == 0:
-        return x == tx and y == ty
-    if dx == 0:
-        # Then we can only move vertically
-        return x == tx and dy != 0 and (ty - y) % dy == 0 and (ty - y) // dy >= 0
-    if dy == 0:
-        # Then we can only move horizontally
-        return y == ty and dx != 0 and (tx - x) % dx == 0 and (tx - x) // dx >= 0
-
-    if (tx - x) % dx == 0 and (ty - y) % dy == 0:
-        steps_x = (tx - x) // dx
-        steps_y = (ty - y) // dy
-        return steps_x == steps_y and steps_x >= 0
-    return False
-
-
 class Game:
     def __init__(self, data):
         lines = data.strip().split("\n")

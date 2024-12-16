@@ -1278,1102 +1278,1242 @@ Button A: X+36, Y+77
 Button B: X+95, Y+34
 Prize: X=10000000004955, Y=10000000004338
 
-Solution: (105309346203, 136024572460)
+Solution: (105309346203.0, 136024572460.0)
 Game 1 possible with price 513383063583
 
-Solution: (154537791656, 101152008980)
+Solution: (154537791656.0, 101152008980.0)
 Game 2 possible with price 457993818596
 
-Solution: (385000000093429/1483, 45000000013347/1483)
-A presses are not an integer: 385000000093429/1483
+Solution: (259608900939.60147, 30343897514.057316)
+A presses are not close to an integer: 259608900939.60147
+B presses are not close to an integer: 30343897514.057316
 Game 3 impossible
 
-Solution: (10000000082745/871, 60000000036582/469)
-A presses are not an integer: 10000000082745/871
+Solution: (11481056352.175661, 127931769800.8145)
+A presses are not close to an integer: 11481056352.175661
+B presses are not close to an integer: 127931769800.8145
 Game 4 impossible
 
-Solution: (162287480706, 154559505582)
+Solution: (162287480706.0, 154559505582.0)
 Game 5 possible with price 625965997452
 
-Solution: (125000000046844/1673, 215000000045171/1673)
-A presses are not an integer: 125000000046844/1673
+Solution: (74716078928.17932, 128511655735.30843)
+A presses are not close to an integer: 74716078928.17932
+B presses are not close to an integer: 128511655735.30843
 Game 6 impossible
 
-Solution: (110782865584, 103397341546)
+Solution: (110782865584.0, 103397341546.0)
 Game 7 possible with price 420974890222
 
-Solution: (162907268226, 213032581912)
+Solution: (162907268226.0, 213032581912.0)
 Game 8 possible with price 802005013962
 
-Solution: (101998334673, 108243131030)
+Solution: (101998334673.0, 108243131030.0)
 Game 9 possible with price 426727727763
 
-Solution: (38000000011844/423, 20000000039339/423)
-A presses are not an integer: 38000000011844/423
+Solution: (89834515394.43027, 47281323970.06856)
+A presses are not close to an integer: 89834515394.43027
+B presses are not close to an integer: 47281323970.06856
 Game 10 impossible
 
-Solution: (490000000509169/5721, 520000000400470/5721)
-A presses are not an integer: 490000000509169/5721
+Solution: (85649362088.6504, 90893200559.42493)
+A presses are not close to an integer: 85649362088.6504
+B presses are not close to an integer: 90893200559.42493
 Game 11 impossible
 
-Solution: (154849226079, 187449062842)
+Solution: (154849226079.0, 187449062842.0)
 Game 12 possible with price 717196414605
 
-Solution: (133542812311, 141398272125)
+Solution: (133542812311.0, 141398272125.0)
 Game 13 possible with price 557737628686
 
-Solution: (166000000018333/291, 8000000028227/291)
-A presses are not an integer: 166000000018333/291
+Solution: (570446735458.189, 27491409031.707905)
+A presses are not close to an integer: 570446735458.189
+B presses are not close to an integer: 27491409031.707905
 Game 14 impossible
 
-Solution: (104761904993, 123809523581)
+Solution: (104761904993.0, 123809523581.0)
 Game 15 possible with price 476190475736
 
-Solution: (106609808344, 173621687589)
+Solution: (106609808344.0, 173621687589.0)
 Game 16 possible with price 627474871111
 
-Solution: (160000000007788/1947, 470000000177177/1947)
-A presses are not an integer: 160000000007788/1947
+Solution: (82177709300.35336, 241397021149.038)
+A presses are not close to an integer: 82177709300.35336
+B presses are not close to an integer: 241397021149.038
 Game 17 impossible
 
-Solution: (15000000002178/121, 5000000006655/121)
-A presses are not an integer: 15000000002178/121
+Solution: (123966942166.76033, 41322314104.58678)
+A presses are not close to an integer: 123966942166.76033
+B presses are not close to an integer: 41322314104.58678
 Game 18 impossible
 
-Solution: (134000000021919/953, 68000000084817/953)
-A presses are not an integer: 134000000021919/953
+Solution: (140608604430.13538, 71353620235.90451)
+A presses are not close to an integer: 140608604430.13538
+B presses are not close to an integer: 71353620235.90451
 Game 19 impossible
 
-Solution: (110000000020601/981, 20000000032373/981)
-A presses are not an integer: 110000000020601/981
+Solution: (112130479123.95616, 20387359869.901123)
+A presses are not close to an integer: 112130479123.95616
+B presses are not close to an integer: 20387359869.901123
 Game 20 impossible
 
-Solution: (103092783780, 230442692506)
+Solution: (103092783780.0, 230442692506.0)
 Game 21 possible with price 794420861298
 
-Solution: (149572649876, 123931624033)
+Solution: (149572649876.0, 123931624033.0)
 Game 22 possible with price 521367521975
 
-Solution: (200000000015818/719, 30000000036669/719)
-A presses are not an integer: 200000000015818/719
+Solution: (278164116850.9291, 41724617575.33936)
+A presses are not close to an integer: 278164116850.9291
+B presses are not close to an integer: 41724617575.33936
 Game 23 impossible
 
-Solution: (142372881561, 196610169528)
+Solution: (142372881561.0, 196610169528.0)
 Game 24 possible with price 732203390145
 
-Solution: (145564405381, 112606427018)
+Solution: (145564405381.0, 112606427018.0)
 Game 25 possible with price 483383686435
 
-Solution: (108619481569, 119131044232)
+Solution: (108619481569.0, 119131044232.0)
 Game 26 possible with price 466012614265
 
-Solution: (2187500000989/23, 1562500000552/23)
-A presses are not an integer: 2187500000989/23
+Solution: (95108695695.17392, 67934782632.695656)
+A presses are not close to an integer: 95108695695.17392
+B presses are not close to an integer: 67934782632.695656
 Game 27 impossible
 
-Solution: (106250000060279/849, 20000000019810/283)
-A presses are not an integer: 106250000060279/849
+Solution: (125147232108.6914, 70671378161.87279)
+A presses are not close to an integer: 125147232108.6914
+B presses are not close to an integer: 70671378161.87279
 Game 28 impossible
 
-Solution: (2500000000270/27, 5000000001863/27)
-A presses are not an integer: 2500000000270/27
+Solution: (92592592602.59259, 185185185254.18518)
+A presses are not close to an integer: 92592592602.59259
+B presses are not close to an integer: 185185185254.18518
 Game 29 impossible
 
-Solution: (121722846524, 112359550617)
+Solution: (121722846524.0, 112359550617.0)
 Game 30 possible with price 458801498375
 
-Solution: (150943396030, 132075471983)
+Solution: (150943396030.0, 132075471983.0)
 Game 31 possible with price 547169811979
 
-Solution: (173965206972, 137972405732)
+Solution: (173965206972.0, 137972405732.0)
 Game 32 possible with price 587882424168
 
-Solution: (118097670154, 146824130461)
+Solution: (118097670154.0, 146824130461.0)
 Game 33 possible with price 558570061537
 
-Solution: (25200000000615/41, 400000002665/41)
-A presses are not an integer: 25200000000615/41
+Solution: (614634146356.4634, 9756097625.975609)
+A presses are not close to an integer: 614634146356.4634
+B presses are not close to an integer: 9756097625.975609
 Game 34 impossible
 
-Solution: (101918465315, 161870503902)
+Solution: (101918465315.0, 161870503902.0)
 Game 35 possible with price 587529977021
 
-Solution: (117233294460, 105509964819)
+Solution: (117233294460.0, 105509964819.0)
 Game 36 possible with price 433763188917
 
-Solution: (173697270565, 297766749507)
+Solution: (173697270565.0, 297766749507.0)
 Game 37 possible with price 1066997519086
 
-Solution: (100151745093, 121396054841)
+Solution: (100151745093.0, 121396054841.0)
 Game 38 possible with price 464339909616
 
-Solution: (130000000006654/1109, 55000000025507/1109)
-A presses are not an integer: 130000000006654/1109
+Solution: (117222723180.03065, 49594229058.16682)
+A presses are not close to an integer: 117222723180.03065
+B presses are not close to an integer: 49594229058.16682
 Game 39 impossible
 
-Solution: (290000000244189/3091, 200000000151459/3091)
-A presses are not an integer: 290000000244189/3091
+Solution: (93820770056.3536, 64703979343.72662)
+A presses are not close to an integer: 93820770056.3536
+B presses are not close to an integer: 64703979343.72662
 Game 40 impossible
 
-Solution: (233609645873, 158251695763)
+Solution: (233609645873.0, 158251695763.0)
 Game 41 possible with price 708364733162
 
-Solution: (232067510980, 126582278682)
+Solution: (232067510980.0, 126582278682.0)
 Game 42 possible with price 611814347026
 
-Solution: (163934425996, 122950820259)
+Solution: (163934425996.0, 122950820259.0)
 Game 43 possible with price 532786886773
 
-Solution: (108191653785, 121071612635)
+Solution: (108191653785.0, 121071612635.0)
 Game 44 possible with price 471406491690
 
-Solution: (131421744239, 143369176118)
+Solution: (131421744239.0, 143369176118.0)
 Game 45 possible with price 561529272593
 
-Solution: (122549019742, 179738562154)
+Solution: (122549019742.0, 179738562154.0)
 Game 46 possible with price 661764706204
 
-Solution: (107033638946, 152905199351)
+Solution: (107033638946.0, 152905199351.0)
 Game 47 possible with price 565749236999
 
-Solution: (32000000003885/259, 38000000070707/777)
-A presses are not an integer: 32000000003885/259
+Solution: (123552123567.12355, 48906048997.048904)
+A presses are not close to an integer: 123552123567.12355
+B presses are not close to an integer: 48906048997.048904
 Game 48 impossible
 
-Solution: (168644596970, 124921924245)
+Solution: (168644596970.0, 124921924245.0)
 Game 49 possible with price 543410369705
 
-Solution: (191846522994, 119904076709)
+Solution: (191846522994.0, 119904076709.0)
 Game 50 possible with price 551558753121
 
-Solution: (310000000070746/907, 60000000074374/907)
-A presses are not an integer: 310000000070746/907
+Solution: (341786108126.5116, 66152150026.87321)
+A presses are not close to an integer: 341786108126.5116
+B presses are not close to an integer: 66152150026.87321
 Game 51 impossible
 
-Solution: (109519797828, 101095198184)
+Solution: (109519797828.0, 101095198184.0)
 Game 52 possible with price 412805392380
 
-Solution: (690000000262740/4379, 220000000096338/4379)
-A presses are not an integer: 690000000262740/4379
+Solution: (157570221571.76068, 50239780793.86572)
+A presses are not close to an integer: 157570221571.76068
+B presses are not close to an integer: 50239780793.86572
 Game 53 impossible
 
-Solution: (170000000058682/2257, 190000000133163/2257)
-A presses are not an integer: 170000000058682/2257
+Solution: (75321222888.20647, 84182543257.93665)
+A presses are not close to an integer: 75321222888.20647
+B presses are not close to an integer: 84182543257.93665
 Game 54 impossible
 
-Solution: (340000000431324/6343, 670000000501097/6343)
-A presses are not an integer: 340000000431324/6343
+Solution: (53602396410.42472, 105628251694.95459)
+A presses are not close to an integer: 53602396410.42472
+B presses are not close to an integer: 105628251694.95459
 Game 55 impossible
 
-Solution: (100000000234641/2827, 310000000180928/2827)
-A presses are not an integer: 100000000234641/2827
+Solution: (35373187207.15989, 109656880148.89565)
+A presses are not close to an integer: 35373187207.15989
+B presses are not close to an integer: 109656880148.89565
 Game 56 impossible
 
-Solution: (109546165988, 103286385047)
+Solution: (109546165988.0, 103286385047.0)
 Game 57 possible with price 419405321129
 
-Solution: (139732685664, 127582017097)
+Solution: (139732685664.0, 127582017097.0)
 Game 58 possible with price 522478736955
 
-Solution: (430000000242682/3677, 230000000330930/3677)
-A presses are not an integer: 430000000242682/3677
+Solution: (116943160250.93336, 62550992747.05738)
+A presses are not close to an integer: 116943160250.93336
+B presses are not close to an integer: 62550992747.05738
 Game 59 impossible
 
-Solution: (257441674147, 120675784192)
+Solution: (257441674147.0, 120675784192.0)
 Game 60 possible with price 619469026723
 
-Solution: (162852112942, 132042253792)
+Solution: (162852112942.0, 132042253792.0)
 Game 61 possible with price 558978874318
 
-Solution: (10000000017721/179, 410000000072853/1969)
-A presses are not an integer: 10000000017721/179
+Solution: (55865921886.709496, 208227526700.28085)
+A presses are not close to an integer: 55865921886.709496
+B presses are not close to an integer: 208227526700.28085
 Game 62 impossible
 
-Solution: (140705998519, 101209577917)
+Solution: (140705998519.0, 101209577917.0)
 Game 63 possible with price 444334732270
 
-Solution: (112419700395, 203426124481)
+Solution: (112419700395.0, 203426124481.0)
 Game 64 possible with price 722698073838
 
-Solution: (630000000056170/5617, 430000000426892/5617)
-A presses are not an integer: 630000000056170/5617
+Solution: (112159515765.7415, 76553320353.72832)
+A presses are not close to an integer: 112159515765.7415
+B presses are not close to an integer: 76553320353.72832
 Game 65 impossible
 
-Solution: (160349854282, 102040816400)
+Solution: (160349854282.0, 102040816400.0)
 Game 66 possible with price 466472303482
 
-Solution: (152439024652, 100174216191)
+Solution: (152439024652.0, 100174216191.0)
 Game 67 possible with price 452961673225
 
-Solution: (148489503243, 102406554522)
+Solution: (148489503243.0, 102406554522.0)
 Game 68 possible with price 455709166809
 
-Solution: (104493208030, 128874956498)
+Solution: (104493208030.0, 128874956498.0)
 Game 69 possible with price 491118077524
 
-Solution: (70000000133110/4437, 650000000332775/4437)
-A presses are not an integer: 70000000133110/4437
+Solution: (15776425542.73383, 146495379836.09985)
+A presses are not close to an integer: 15776425542.73383
+B presses are not close to an integer: 146495379836.09985
 Game 70 impossible
 
-Solution: (56000000059499/601, 57000000015626/601)
-A presses are not an integer: 56000000059499/601
+Solution: (93178036704.65724, 94841930142.47255)
+A presses are not close to an integer: 93178036704.65724
+B presses are not close to an integer: 94841930142.47255
 Game 71 impossible
 
-Solution: (239567233504, 100463678499)
+Solution: (239567233504.0, 100463678499.0)
 Game 72 possible with price 540958269001
 
-Solution: (480000000379763/4267, 190000000174947/4267)
-A presses are not an integer: 480000000379763/4267
+Solution: (112491211713.09187, 44527771308.8697)
+A presses are not close to an integer: 112491211713.09187
+B presses are not close to an integer: 44527771308.8697
 Game 73 impossible
 
-Solution: (171428571507, 219047619511)
+Solution: (171428571507.0, 219047619511.0)
 Game 74 possible with price 828571430040
 
-Solution: (20000000223479/2511, 125000000051057/837)
-A presses are not an integer: 20000000223479/2511
+Solution: (7964954290.513341, 149342891339.37515)
+A presses are not close to an integer: 7964954290.513341
+B presses are not close to an integer: 149342891339.37515
 Game 75 impossible
 
-Solution: (217391304523, 144927536441)
+Solution: (217391304523.0, 144927536441.0)
 Game 76 possible with price 652173913846
 
-Solution: (120171673937, 115879828419)
+Solution: (120171673937.0, 115879828419.0)
 Game 77 possible with price 467811159194
 
-Solution: (20000000015350/307, 30000000018113/307)
-A presses are not an integer: 20000000015350/307
+Solution: (65146579854.56026, 97719869765.8404)
+A presses are not close to an integer: 65146579854.56026
+B presses are not close to an integer: 97719869765.8404
 Game 78 impossible
 
-Solution: (290000000237408/2473, 175000000084082/2473)
-A presses are not an integer: 290000000237408/2473
+Solution: (117266478057.98949, 70764253976.57986)
+A presses are not close to an integer: 117266478057.98949
+B presses are not close to an integer: 70764253976.57986
 Game 79 impossible
 
-Solution: (235000000123456/1929, 115000000142746/1929)
-A presses are not an integer: 235000000123456/1929
+Solution: (121824779742.58995, 59616381618.84189)
+A presses are not close to an integer: 121824779742.58995
+B presses are not close to an integer: 59616381618.84189
 Game 80 impossible
 
-Solution: (105627040739, 113309007158)
+Solution: (105627040739.0, 113309007158.0)
 Game 81 possible with price 445554062213
 
-Solution: (102787727798, 104345117698)
+Solution: (102787727798.0, 104345117698.0)
 Game 82 possible with price 415823080892
 
-Solution: (103092783397, 154639175441)
+Solution: (103092783397.0, 154639175441.0)
 Game 83 possible with price 567010309720
 
-Solution: (162094763039, 112219451508)
+Solution: (162094763039.0, 112219451508.0)
 Game 84 possible with price 498753117563
 
-Solution: (104911779021, 205054840124)
+Solution: (104911779021.0, 205054840124.0)
 Game 85 possible with price 720076299393
 
-Solution: (750000000166286/2867, 10000000174887/2867)
-A presses are not an integer: 750000000166286/2867
+Solution: (261597488722.10883, 3487966576.521451)
+A presses are not close to an integer: 261597488722.10883
+B presses are not close to an integer: 3487966576.521451
 Game 86 impossible
 
-Solution: (139257294582, 102785146060)
+Solution: (139257294582.0, 102785146060.0)
 Game 87 possible with price 447612732762
 
-Solution: (160978750835, 173857051355)
+Solution: (160978750835.0, 173857051355.0)
 Game 88 possible with price 682549904900
 
-Solution: (10000000002071/109, 180000000075537/1199)
-A presses are not an integer: 10000000002071/109
+Solution: (91743119285.05504, 150125104316.54462)
+A presses are not close to an integer: 91743119285.05504
+B presses are not close to an integer: 150125104316.54462
 Game 89 impossible
 
-Solution: (127646326535, 130759651288)
+Solution: (127646326535.0, 130759651288.0)
 Game 90 possible with price 519925280399
 
-Solution: (112359550690, 112359550548)
+Solution: (112359550690.0, 112359550548.0)
 Game 91 possible with price 449438202334
 
-Solution: (10000000015249/221, 80000000014586/221)
-A presses are not an integer: 10000000015249/221
+Solution: (45248868847.28054, 361990950292.2443)
+A presses are not close to an integer: 45248868847.28054
+B presses are not close to an integer: 361990950292.2443
 Game 92 impossible
 
-Solution: (114503816928, 121443442248)
+Solution: (114503816928.0, 121443442248.0)
 Game 93 possible with price 478834143672
 
-Solution: (10000000140302/1711, 850000000094105/1711)
-A presses are not an integer: 10000000140302/1711
+Solution: (5844535441.438925, 496785505607.3086)
+A presses are not close to an integer: 5844535441.438925
+B presses are not close to an integer: 496785505607.3086
 Game 94 impossible
 
-Solution: (174029451678, 307898259624)
+Solution: (174029451678.0, 307898259624.0)
 Game 95 possible with price 1097724230550
 
-Solution: (138924620784, 126061229785)
+Solution: (138924620784.0, 126061229785.0)
 Game 96 possible with price 517108310139
 
-Solution: (106477373657, 115350488245)
+Solution: (106477373657.0, 115350488245.0)
 Game 97 possible with price 452528838392
 
-Solution: (50000000044727/877, 110000000073668/877)
-A presses are not an integer: 50000000044727/877
+Solution: (57012542810.40707, 125427594154.69556)
+A presses are not close to an integer: 57012542810.40707
+B presses are not close to an integer: 125427594154.69556
 Game 98 impossible
 
-Solution: (145278450600, 169491525417)
+Solution: (145278450600.0, 169491525417.0)
 Game 99 possible with price 653753026851
 
-Solution: (167597765309, 153631285107)
+Solution: (167597765309.0, 153631285107.0)
 Game 100 possible with price 628491620630
 
-Solution: (40000000039382/679, 10000000006014/97)
-A presses are not an integer: 40000000039382/679
+Solution: (58910162060.94551, 103092783567.15463)
+A presses are not close to an integer: 58910162060.94551
+B presses are not close to an integer: 103092783567.15463
 Game 101 impossible
 
-Solution: (103351080540, 119010335280)
+Solution: (103351080540.0, 119010335280.0)
 Game 102 possible with price 460382086380
 
-Solution: (112359551006, 112359550491)
+Solution: (112359551006.0, 112359550491.0)
 Game 103 possible with price 449438202479
 
-Solution: (1250000000247/13, 625000000962/13)
-A presses are not an integer: 1250000000247/13
+Solution: (96153846172.84616, 48076923150.92308)
+A presses are not close to an integer: 96153846172.84616
+B presses are not close to an integer: 48076923150.92308
 Game 104 impossible
 
-Solution: (107003891437, 272373540859)
+Solution: (107003891437.0, 272373540859.0)
 Game 105 possible with price 924124514014
 
-Solution: (159817351756, 136986301493)
+Solution: (159817351756.0, 136986301493.0)
 Game 106 possible with price 570776256235
 
-Solution: (10000000007654/89, 60000000035244/979)
-A presses are not an integer: 10000000007654/89
+Solution: (112359550647.79776, 61287027615.16241)
+A presses are not close to an integer: 112359550647.79776
+B presses are not close to an integer: 61287027615.16241
 Game 107 impossible
 
-Solution: (397074190329, 114942529006)
+Solution: (397074190329.0, 114942529006.0)
 Game 108 possible with price 741901777347
 
-Solution: (10000000001794/39, 110000000106392/1209)
-A presses are not an integer: 10000000001794/39
+Solution: (256410256456.2564, 90984284620.67163)
+A presses are not close to an integer: 256410256456.2564
+B presses are not close to an integer: 90984284620.67163
 Game 109 impossible
 
-Solution: (230000000201388/2189, 250000000089749/2189)
-A presses are not an integer: 230000000201388/2189
+Solution: (105070808680.39653, 114207400680.56145)
+A presses are not close to an integer: 105070808680.39653
+B presses are not close to an integer: 114207400680.56145
 Game 110 impossible
 
-Solution: (2560000000289/17, 3120000000102/17)
-A presses are not an integer: 2560000000289/17
+Solution: (150588235311.11765, 183529411770.70587)
+A presses are not close to an integer: 150588235311.11765
+B presses are not close to an integer: 183529411770.70587
 Game 111 impossible
 
-Solution: (169491526287, 193704600272)
+Solution: (169491526287.0, 193704600272.0)
 Game 112 possible with price 750605327103
 
-Solution: (141487905136, 114103149409)
+Solution: (141487905136.0, 114103149409.0)
 Game 113 possible with price 483797353363
 
-Solution: (114643043579, 109431995599)
+Solution: (114643043579.0, 109431995599.0)
 Game 114 possible with price 442939030376
 
-Solution: (221370796281, 106428267582)
+Solution: (221370796281.0, 106428267582.0)
 Game 115 possible with price 540655599027
 
-Solution: (10000000425475/5673, 230000000126697/1891)
-A presses are not an integer: 10000000425475/5673
+Solution: (1762735840.9086902, 121628767914.69963)
+A presses are not close to an integer: 1762735840.9086902
+B presses are not close to an integer: 121628767914.69963
 Game 116 impossible
 
-Solution: (162790697606, 102325581770)
+Solution: (162790697606.0, 102325581770.0)
 Game 117 possible with price 469767442916
 
-Solution: (260000000053984/1687, 250000000086037/1687)
-A presses are not an integer: 260000000053984/1687
+Solution: (154119739213.97986, 148192056956.74985)
+A presses are not close to an integer: 154119739213.97986
+B presses are not close to an integer: 148192056956.74985
 Game 118 impossible
 
-Solution: (90000000058356/1621, 305000000100502/1621)
-A presses are not an integer: 90000000058356/1621
+Solution: (55521283194.544106, 188155459654.84393)
+A presses are not close to an integer: 55521283194.544106
+B presses are not close to an integer: 188155459654.84393
 Game 119 impossible
 
-Solution: (109289617724, 163934426097)
+Solution: (109289617724.0, 163934426097.0)
 Game 120 possible with price 601092896015
 
-Solution: (102040816265, 102040816448)
+Solution: (102040816265.0, 102040816448.0)
 Game 121 possible with price 408163265609
 
-Solution: (20000000022386/273, 790000000240786/5733)
-A presses are not an integer: 20000000022386/273
+Solution: (73260073342.07326, 137798709269.28067)
+A presses are not close to an integer: 73260073342.07326
+B presses are not close to an integer: 137798709269.28067
 Game 122 impossible
 
-Solution: (139248704821, 100388601214)
+Solution: (139248704821.0, 100388601214.0)
 Game 123 possible with price 440414508463
 
-Solution: (135214579959, 146972369059)
+Solution: (135214579959.0, 146972369059.0)
 Game 124 possible with price 576131687136
 
-Solution: (109119251796, 194855807148)
+Solution: (109119251796.0, 194855807148.0)
 Game 125 possible with price 693686673240
 
-Solution: (143187066909, 180138568604)
+Solution: (143187066909.0, 180138568604.0)
 Game 126 possible with price 683602772721
 
-Solution: (600000000090683/3127, 170000000184493/3127)
-A presses are not an integer: 600000000090683/3127
+Solution: (191877198621.90054, 54365206326.98849)
+A presses are not close to an integer: 191877198621.90054
+B presses are not close to an integer: 54365206326.98849
 Game 127 impossible
 
-Solution: (5000000000632/79, 10000000006083/79)
-A presses are not an integer: 5000000000632/79
+Solution: (63291139248.50633, 126582278558.01266)
+A presses are not close to an integer: 63291139248.50633
+B presses are not close to an integer: 126582278558.01266
 Game 128 impossible
 
-Solution: (260000000032405/6481, 570000000388860/6481)
-A presses are not an integer: 260000000032405/6481
+Solution: (40117265859.034874, 87949390586.15337)
+A presses are not close to an integer: 40117265859.034874
+B presses are not close to an integer: 87949390586.15337
 Game 129 impossible
 
-Solution: (50000000072343/991, 120000000096127/991)
-A presses are not an integer: 50000000072343/991
+Solution: (50454086854.02927, 121089808371.47023)
+A presses are not close to an integer: 50454086854.02927
+B presses are not close to an integer: 121089808371.47023
 Game 130 impossible
 
-Solution: (40000000021291/453, 15000000006795/151)
-A presses are not an integer: 40000000021291/453
+Solution: (88300220797.55188, 99337748389.37086)
+A presses are not close to an integer: 88300220797.55188
+B presses are not close to an integer: 99337748389.37086
 Game 131 impossible
 
-Solution: (245170877125, 118870728001)
+Solution: (245170877125.0, 118870728001.0)
 Game 132 possible with price 601783061128
 
-Solution: (27500000010266/177, 17000000012921/177)
-A presses are not an integer: 27500000010266/177
+Solution: (155367231696.4181, 96045197813.11299)
+A presses are not close to an integer: 155367231696.4181
+B presses are not close to an integer: 96045197813.11299
 Game 133 impossible
 
-Solution: (250000000534623/6007, 620000000462539/6007)
-A presses are not an integer: 250000000534623/6007
+Solution: (41618112291.4305, 103212918339.02763)
+A presses are not close to an integer: 41618112291.4305
+B presses are not close to an integer: 103212918339.02763
 Game 134 impossible
 
-Solution: (2000000004655/49, 90000000048510/539)
-A presses are not an integer: 2000000004655/49
+Solution: (40816326625.61224, 166975881351.59555)
+A presses are not close to an integer: 40816326625.61224
+B presses are not close to an integer: 166975881351.59555
 Game 135 impossible
 
-Solution: (46000000002958/493, 44000000026129/493)
-A presses are not an integer: 46000000002958/493
+Solution: (93306288038.45436, 89249492953.60852)
+A presses are not close to an integer: 93306288038.45436
+B presses are not close to an integer: 89249492953.60852
 Game 136 impossible
 
-Solution: (1500000000759/11, 5000000005005/77)
-A presses are not an integer: 1500000000759/11
+Solution: (136363636432.63637, 64935065000.06493)
+A presses are not close to an integer: 136363636432.63637
+B presses are not close to an integer: 64935065000.06493
 Game 137 impossible
 
-Solution: (150000000370216/4207, 430000000197729/4207)
-A presses are not an integer: 150000000370216/4207
+Solution: (35654861034.04231, 102210601425.65462)
+A presses are not close to an integer: 35654861034.04231
+B presses are not close to an integer: 102210601425.65462
 Game 138 impossible
 
-Solution: (95000000047242/1027, 85000000046215/1027)
-A presses are not an integer: 95000000047242/1027
+Solution: (92502434320.58617, 82765335974.8929)
+A presses are not close to an integer: 92502434320.58617
+B presses are not close to an integer: 82765335974.8929
 Game 139 impossible
 
-Solution: (135836995586, 123851378664)
+Solution: (135836995586.0, 123851378664.0)
 Game 140 possible with price 507391131578
 
-Solution: (295000000199998/2439, 70000000005691/813)
-A presses are not an integer: 295000000199998/2439
+Solution: (120951209594.09512, 86100861015.61009)
+A presses are not close to an integer: 120951209594.09512
+B presses are not close to an integer: 86100861015.61009
 Game 141 impossible
 
-Solution: (146252285620, 164533820459)
+Solution: (146252285620.0, 164533820459.0)
 Game 142 possible with price 639853746997
 
-Solution: (22000000025092/369, 52000000007749/369)
-A presses are not an integer: 22000000025092/369
+Solution: (59620596273.96206, 140921409235.09213)
+A presses are not close to an integer: 59620596273.96206
+B presses are not close to an integer: 140921409235.09213
 Game 143 impossible
 
-Solution: (182648401966, 216894977301)
+Solution: (182648401966.0, 216894977301.0)
 Game 144 possible with price 833333333869
 
-Solution: (140000000126003/1299, 310000000144189/3897)
-A presses are not an integer: 140000000126003/1299
+Solution: (107775211798.3087, 79548370578.44214)
+A presses are not close to an integer: 107775211798.3087
+B presses are not close to an integer: 79548370578.44214
 Game 145 impossible
 
-Solution: (62500000040052/589, 15000000035340/589)
-A presses are not an integer: 62500000040052/589
+Solution: (106112054397.37181, 25466893099.049236)
+A presses are not close to an integer: 106112054397.37181
+B presses are not close to an integer: 25466893099.049236
 Game 146 impossible
 
-Solution: (173711638689, 133178923201)
+Solution: (173711638689.0, 133178923201.0)
 Game 147 possible with price 573248408292
 
-Solution: (100000000458217/5657, 590000000260222/5657)
-A presses are not an integer: 100000000458217/5657
+Solution: (17677214152.0624, 104295563065.26816)
+A presses are not close to an integer: 17677214152.0624
+B presses are not close to an integer: 104295563065.26816
 Game 148 impossible
 
-Solution: (10000000056520/1413, 175000000008478/1413)
-A presses are not an integer: 10000000056520/1413
+Solution: (7077140875.102618, 123849964620.29582)
+A presses are not close to an integer: 7077140875.102618
+B presses are not close to an integer: 123849964620.29582
 Game 149 impossible
 
-Solution: (33000000011991/571, 59000000014846/571)
-A presses are not an integer: 33000000011991/571
+Solution: (57793345029.75657, 103327495647.7163)
+A presses are not close to an integer: 57793345029.75657
+B presses are not close to an integer: 103327495647.7163
 Game 150 impossible
 
-Solution: (178183398953, 108648413825)
+Solution: (178183398953.0, 108648413825.0)
 Game 151 possible with price 504128640428
 
-Solution: (-19999999974183/2347, 385000000157249/2347)
-A presses are not an integer: -19999999974183/2347
+Solution: (-8521516818.995739, 164039199044.41797)
+A presses are not close to an integer: -8521516818.995739
+B presses are not close to an integer: 164039199044.41797
+A presses are negative: -8521516819
 Game 152 impossible
 
-Solution: (102280348915, 112340710974)
+Solution: (102280348915.0, 112340710974.0)
 Game 153 possible with price 439302481837
 
-Solution: (149122807065, 271929824705)
+Solution: (149122807065.0, 271929824705.0)
 Game 154 possible with price 964912281180
 
-Solution: (82000000012587/307, 20000000018727/307)
-A presses are not an integer: 82000000012587/307
+Solution: (267100977239.69708, 65146579865.56026)
+A presses are not close to an integer: 267100977239.69708
+B presses are not close to an integer: 65146579865.56026
 Game 155 impossible
 
-Solution: (19375000028187/397, 41875000006352/397)
-A presses are not an integer: 19375000028187/397
+Solution: (48803526519.36272, 105478589436.6549)
+A presses are not close to an integer: 48803526519.36272
+B presses are not close to an integer: 105478589436.6549
 Game 156 impossible
 
-Solution: (118152524317, 126208378227)
+Solution: (118152524317.0, 126208378227.0)
 Game 157 possible with price 496777658998
 
-Solution: (95000000018260/913, 140000000021912/913)
-A presses are not an integer: 95000000018260/913
+Solution: (104052573952.09201, 153340635292.3461)
+A presses are not close to an integer: 104052573952.09201
+B presses are not close to an integer: 153340635292.3461
 Game 158 impossible
 
-Solution: (142006413263, 119102153011)
+Solution: (142006413263.0, 119102153011.0)
 Game 159 possible with price 499312872296
 
-Solution: (209973753463, 183727034534)
+Solution: (209973753463.0, 183727034534.0)
 Game 160 possible with price 761154857065
 
-Solution: (105140187088, 171339564140)
+Solution: (105140187088.0, 171339564140.0)
 Game 161 possible with price 619158879508
 
-Solution: (12500000010472/119, 16250000005831/833)
-A presses are not an integer: 12500000010472/119
+Solution: (105042016894.72269, 19507803128.2485)
+A presses are not close to an integer: 105042016894.72269
+B presses are not close to an integer: 19507803128.2485
 Game 162 impossible
 
-Solution: (106382978893, 141843971740)
+Solution: (106382978893.0, 141843971740.0)
 Game 163 possible with price 531914894113
 
-Solution: (218228498130, 102695763887)
+Solution: (218228498130.0, 102695763887.0)
 Game 164 possible with price 526315789791
 
-Solution: (106000000064438/1111, 114000000024442/1111)
-A presses are not an integer: 106000000064438/1111
+Solution: (95409541012.09541, 102610261048.10262)
+A presses are not close to an integer: 95409541012.09541
+B presses are not close to an integer: 102610261048.10262
 Game 165 impossible
 
-Solution: (97500000041501/883, 38750000028256/883)
-A presses are not an integer: 97500000041501/883
+Solution: (110419026094.56512, 43884484743.21178)
+A presses are not close to an integer: 110419026094.56512
+B presses are not close to an integer: 43884484743.21178
 Game 166 impossible
 
-Solution: (20000000012798/237, 5000000003239/79)
-A presses are not an integer: 20000000012798/237
+Solution: (84388185708.00844, 63291139281.50633)
+A presses are not close to an integer: 84388185708.00844
+B presses are not close to an integer: 63291139281.50633
 Game 167 impossible
 
-Solution: (191082802926, 127388534839)
+Solution: (191082802926.0, 127388534839.0)
 Game 168 possible with price 573248407443
 
-Solution: (110021526143, 102846209221)
+Solution: (110021526143.0, 102846209221.0)
 Game 169 possible with price 418560153806
 
-Solution: (70000000010674/593, 25000000039138/593)
-A presses are not an integer: 70000000010674/593
+Solution: (118043844874.66104, 42158516086.236084)
+A presses are not close to an integer: 118043844874.66104
+B presses are not close to an integer: 42158516086.236084
 Game 170 impossible
 
-Solution: (150000000030381/779, 40000000037392/779)
-A presses are not an integer: 150000000030381/779
+Solution: (192554557163.51862, 51347881947.87163)
+A presses are not close to an integer: 192554557163.51862
+B presses are not close to an integer: 51347881947.87163
 Game 171 impossible
 
-Solution: (170000000193472/3023, 280000000126966/3023)
-A presses are not an integer: 170000000193472/3023
+Solution: (56235527685.56798, 92623222006.9355)
+A presses are not close to an integer: 56235527685.56798
+B presses are not close to an integer: 92623222006.9355
 Game 172 impossible
 
-Solution: (134882755772, 112056443274)
+Solution: (134882755772.0, 112056443274.0)
 Game 173 possible with price 471052085594
 
-Solution: (106870229029, 209923664293)
+Solution: (106870229029.0, 209923664293.0)
 Game 174 possible with price 736641221908
 
-Solution: (246376812168, 101449275270)
+Solution: (246376812168.0, 101449275270.0)
 Game 175 possible with price 550724637978
 
-Solution: (480000000286/13, 1480000000767/13)
-A presses are not an integer: 480000000286/13
+Solution: (36923076945.07692, 113846153905.15384)
+A presses are not close to an integer: 36923076945.07692
+B presses are not close to an integer: 113846153905.15384
 Game 176 impossible
 
-Solution: (28500000001365/91, 2500000007371/91)
-A presses are not an integer: 28500000001365/91
+Solution: (313186813201.8132, 27472527553.527473)
+A presses are not close to an integer: 313186813201.8132
+B presses are not close to an integer: 27472527553.527473
 Game 177 impossible
 
-Solution: (227576975489, 160642570044)
+Solution: (227576975489.0, 160642570044.0)
 Game 178 possible with price 709504685621
 
-Solution: (154929577559, 147887324052)
+Solution: (154929577559.0, 147887324052.0)
 Game 179 possible with price 598591549715
 
-Solution: (122732123890, 117395944678)
+Solution: (122732123890.0, 117395944678.0)
 Game 180 possible with price 474919957924
 
-Solution: (10000000003201/33, 7000000002376/99)
-A presses are not an integer: 10000000003201/33
+Solution: (303030303127.30304, 70707070731.07071)
+A presses are not close to an integer: 303030303127.30304
+B presses are not close to an integer: 70707070731.07071
 Game 181 impossible
 
-Solution: (116279070011, 172093023562)
+Solution: (116279070011.0, 172093023562.0)
 Game 182 possible with price 632558140697
 
-Solution: (18125000015665/241, 19062500013255/241)
-A presses are not an integer: 18125000015665/241
+Solution: (75207468944.66805, 79097510428.44398)
+A presses are not close to an integer: 75207468944.66805
+B presses are not close to an integer: 79097510428.44398
 Game 183 impossible
 
-Solution: (230000000149511/3477, 560000000180804/3477)
-A presses are not an integer: 230000000149511/3477
+Solution: (66148979047.889275, 161058383716.07822)
+A presses are not close to an integer: 66148979047.889275
+B presses are not close to an integer: 161058383716.07822
 Game 184 impossible
 
-Solution: (154798761707, 340557275787)
+Solution: (154798761707.0, 340557275787.0)
 Game 185 possible with price 1176470589068
 
-Solution: (151436031386, 135770235108)
+Solution: (151436031386.0, 135770235108.0)
 Game 186 possible with price 558746736710
 
-Solution: (377643504410, 135951662021)
+Solution: (377643504410.0, 135951662021.0)
 Game 187 possible with price 785498490473
 
-Solution: (38000000022881/263, 23000000011835/263)
-A presses are not an integer: 38000000022881/263
+Solution: (144486692102.20914, 87452471527.88974)
+A presses are not close to an integer: 144486692102.20914
+B presses are not close to an integer: 87452471527.88974
 Game 188 impossible
 
-Solution: (124167171424, 133252574350)
+Solution: (124167171424.0, 133252574350.0)
 Game 189 possible with price 523924894474
 
-Solution: (123456790420, 123456790264)
+Solution: (123456790420.0, 123456790264.0)
 Game 190 possible with price 493827161212
 
-Solution: (146295422454, 132137800858)
+Solution: (146295422454.0, 132137800858.0)
 Game 191 possible with price 542708825028
 
-Solution: (101449275513, 159420289917)
+Solution: (101449275513.0, 159420289917.0)
 Game 192 possible with price 579710145264
 
-Solution: (114269788187, 105908584234)
+Solution: (114269788187.0, 105908584234.0)
 Game 193 possible with price 431995540889
 
-Solution: (110000000046980/783, 35000000025317/261)
-A presses are not an integer: 110000000046980/783
+Solution: (140485312959.106, 134099616955.23755)
+A presses are not close to an integer: 140485312959.106
+B presses are not close to an integer: 134099616955.23755
 Game 194 impossible
 
-Solution: (237113402214, 134020618590)
+Solution: (237113402214.0, 134020618590.0)
 Game 195 possible with price 639175257984
 
-Solution: (182034032585, 114760585699)
+Solution: (182034032585.0, 114760585699.0)
 Game 196 possible with price 526315789682
 
-Solution: (520000000368793/4239, 290000000211950/4239)
-A presses are not an integer: 520000000368793/4239
+Solution: (122670441228.77872, 68412361455.99198)
+A presses are not close to an integer: 122670441228.77872
+B presses are not close to an integer: 68412361455.99198
 Game 197 impossible
 
-Solution: (176184690264, 145808019672)
+Solution: (176184690264.0, 145808019672.0)
 Game 198 possible with price 613608749280
 
-Solution: (1450000002516/37, 4300000003663/37)
-A presses are not an integer: 1450000002516/37
+Solution: (39189189257.189186, 116216216315.21622)
+A presses are not close to an integer: 39189189257.189186
+B presses are not close to an integer: 116216216315.21622
 Game 199 impossible
 
-Solution: (-19999999978910/703, 170000000058349/703)
-A presses are not an integer: -19999999978910/703
+Solution: (-28449502103.71266, 241820768219.55762)
+A presses are not close to an integer: -28449502103.71266
+B presses are not close to an integer: 241820768219.55762
+A presses are negative: -28449502104
 Game 200 impossible
 
-Solution: (146883684273, 127034537643)
+Solution: (146883684273.0, 127034537643.0)
 Game 201 possible with price 527987297202
 
-Solution: (125000000273/7, 850000000301/7)
-A presses are not an integer: 125000000273/7
+Solution: (17857142896.142857, 121428571471.57143)
+A presses are not close to an integer: 17857142896.142857
+B presses are not close to an integer: 121428571471.57143
 Game 202 impossible
 
-Solution: (37500000018938/557, 47500000033977/557)
-A presses are not an integer: 37500000018938/557
+Solution: (67324955150.69659, 85278276542.14902)
+A presses are not close to an integer: 67324955150.69659
+B presses are not close to an integer: 85278276542.14902
 Game 203 impossible
 
-Solution: (104517869388, 109575185573)
+Solution: (104517869388.0, 109575185573.0)
 Game 204 possible with price 433243426107
 
-Solution: (50000000005712/357, 10000000010353/119)
-A presses are not an integer: 50000000005712/357
+Solution: (140056022424.9636, 84033613532.37816)
+A presses are not close to an integer: 140056022424.9636
+B presses are not close to an integer: 84033613532.37816
 Game 205 impossible
 
-Solution: (143149284250, 163599182060)
+Solution: (143149284250.0, 163599182060.0)
 Game 206 possible with price 633946830430
 
-Solution: (142495250135, 101329955920)
+Solution: (142495250135.0, 101329955920.0)
 Game 207 possible with price 446485117895
 
-Solution: (11000000009381/177, 31000000010620/177)
-A presses are not an integer: 11000000009381/177
+Solution: (62146892708.36723, 175141242997.85312)
+A presses are not close to an integer: 62146892708.36723
+B presses are not close to an integer: 175141242997.85312
 Game 208 impossible
 
-Solution: (137511992518, 115126319197)
+Solution: (137511992518.0, 115126319197.0)
 Game 209 possible with price 482890950109
 
-Solution: (130000000173085/3147, 380000000236025/3147)
-A presses are not an integer: 130000000173085/3147
+Solution: (41309183404.22148, 120749920634.26279)
+A presses are not close to an integer: 41309183404.22148
+B presses are not close to an integer: 120749920634.26279
 Game 210 impossible
 
-Solution: (305000000029810/2981, 320000000289157/2981)
-A presses are not an integer: 305000000029810/2981
+Solution: (102314659520.23146, 107346528107.73465)
+A presses are not close to an integer: 102314659520.23146
+B presses are not close to an integer: 107346528107.73465
 Game 211 impossible
 
-Solution: (177500000025905/1727, 135000000074261/1727)
-A presses are not an integer: 177500000025905/1727
+Solution: (102779386233.87666, 78170237448.90619)
+A presses are not close to an integer: 102779386233.87666
+B presses are not close to an integer: 78170237448.90619
 Game 212 impossible
 
-Solution: (109018830607, 107036670052)
+Solution: (109018830607.0, 107036670052.0)
 Game 213 possible with price 430128840763
 
-Solution: (70000000082745/871, 120000000012194/871)
-A presses are not an integer: 70000000082745/871
+Solution: (80367393895.22961, 137772675100.1079)
+A presses are not close to an integer: 80367393895.22961
+B presses are not close to an integer: 137772675100.1079
 Game 214 impossible
 
-Solution: (105000000020566/1469, 145000000116051/1469)
-A presses are not an integer: 105000000020566/1469
+Solution: (71477195385.00069, 98706603210.3819)
+A presses are not close to an integer: 71477195385.00069
+B presses are not close to an integer: 98706603210.3819
 Game 215 impossible
 
-Solution: (128996074030, 106561974458)
+Solution: (128996074030.0, 106561974458.0)
 Game 216 possible with price 448681997404
 
-Solution: (410000000173537/1907, 130000000091536/1907)
-A presses are not an integer: 410000000173537/1907
+Solution: (214997378171.75513, 68169900415.068695)
+A presses are not close to an integer: 214997378171.75513
+B presses are not close to an integer: 68169900415.068695
 Game 217 impossible
 
-Solution: (130000000033821/1091, 20000000078552/1091)
-A presses are not an integer: 130000000033821/1091
+Solution: (119156736969.58846, 18331805754.85976)
+A presses are not close to an integer: 119156736969.58846
+B presses are not close to an integer: 18331805754.85976
 Game 218 impossible
 
-Solution: (30000000022507/317, 20000000022824/317)
-A presses are not an integer: 30000000022507/317
+Solution: (94637224045.76341, 63091482721.84227)
+A presses are not close to an integer: 94637224045.76341
+B presses are not close to an integer: 63091482721.84227
 Game 219 impossible
 
-Solution: (130000000031119/1353, 145000000005412/1353)
-A presses are not an integer: 130000000031119/1353
+Solution: (96082779032.60828, 107169253514.71692)
+A presses are not close to an integer: 96082779032.60828
+B presses are not close to an integer: 107169253514.71692
 Game 220 impossible
 
-Solution: (60000000043129/731, 70000000063597/731)
-A presses are not an integer: 60000000043129/731
+Solution: (82079343424.25308, 95759234013.12859)
+A presses are not close to an integer: 82079343424.25308
+B presses are not close to an integer: 95759234013.12859
 Game 221 impossible
 
-Solution: (114671163548, 124789207692)
+Solution: (114671163548.0, 124789207692.0)
 Game 222 possible with price 489038786624
 
-Solution: (20000000007335/163, 15000000008802/163)
-A presses are not an integer: 20000000007335/163
+Solution: (122699386548.06749, 92024539931.30061)
+A presses are not close to an integer: 122699386548.06749
+B presses are not close to an integer: 92024539931.30061
 Game 223 impossible
 
-Solution: (230000000262905/3093, 680000000148464/3093)
-A presses are not an integer: 230000000262905/3093
+Solution: (74361461449.37115, 219851277125.27127)
+A presses are not close to an integer: 74361461449.37115
+B presses are not close to an integer: 219851277125.27127
 Game 224 impossible
 
-Solution: (580000000490464/5109, 10000000165191/1703)
-A presses are not an integer: 580000000490464/5109
+Solution: (113525151789.09062, 5871990701.815032)
+A presses are not close to an integer: 113525151789.09062
+B presses are not close to an integer: 5871990701.815032
 Game 225 impossible
 
-Solution: (104354084474, 125944584363)
+Solution: (104354084474.0, 125944584363.0)
 Game 226 possible with price 482187837563
 
-Solution: (9375000003850/77, 10625000001386/77)
-A presses are not an integer: 9375000003850/77
+Solution: (121753246803.24675, 137987013005.013)
+A presses are not close to an integer: 121753246803.24675
+B presses are not close to an integer: 137987013005.013
 Game 227 impossible
 
-Solution: (157232704594, 100628930959)
+Solution: (157232704594.0, 100628930959.0)
 Game 228 possible with price 459119497471
 
-Solution: (390000000149131/3173, 10000000079325/3173)
-A presses are not an integer: 390000000149131/3173
+Solution: (122912070642.6508, 3151591578.734636)
+A presses are not close to an integer: 122912070642.6508
+B presses are not close to an integer: 3151591578.734636
 Game 229 impossible
 
-Solution: (125218404489, 113570180640)
+Solution: (125218404489.0, 113570180640.0)
 Game 230 possible with price 465928946409
 
-Solution: (15000000015160/379, 55000000033352/379)
-A presses are not an integer: 15000000015160/379
+Solution: (39577836451.6095, 145118733597.23483)
+A presses are not close to an integer: 39577836451.6095
+B presses are not close to an integer: 145118733597.23483
 Game 231 impossible
 
-Solution: (117370892432, 187793426958)
+Solution: (117370892432.0, 187793426958.0)
 Game 232 possible with price 680751173306
 
-Solution: (74000000051531/579, 12000000012159/193)
-A presses are not an integer: 74000000051531/579
+Solution: (127806563128.72366, 62176165866.10881)
+A presses are not close to an integer: 127806563128.72366
+B presses are not close to an integer: 62176165866.10881
 Game 233 impossible
 
-Solution: (30000000043230/1441, 160000000128249/1441)
-A presses are not an integer: 30000000043230/1441
+Solution: (20818875810.70784, 111034004252.77516)
+A presses are not close to an integer: 20818875810.70784
+B presses are not close to an integer: 111034004252.77516
 Game 234 impossible
 
-Solution: (107382550445, 389261745127)
+Solution: (107382550445.0, 389261745127.0)
 Game 235 possible with price 1275167785826
 
-Solution: (10000000012225/489, 395000000208803/3423)
-A presses are not an integer: 10000000012225/489
+Solution: (20449897775.511246, 115395851653.17061)
+A presses are not close to an integer: 20449897775.511246
+B presses are not close to an integer: 115395851653.17061
 Game 236 impossible
 
-Solution: (125000000173229/2373, 130000000005537/791)
-A presses are not an integer: 125000000173229/2373
+Solution: (52675937704.68984, 164348925417.8723)
+A presses are not close to an integer: 52675937704.68984
+B presses are not close to an integer: 164348925417.8723
 Game 237 impossible
 
-Solution: (106169296968, 152080344612)
+Solution: (106169296968.0, 152080344612.0)
 Game 238 possible with price 562410330804
 
-Solution: (190114069005, 114068441072)
+Solution: (190114069005.0, 114068441072.0)
 Game 239 possible with price 532319392221
 
-Solution: (198675496996, 112582781458)
+Solution: (198675496996.0, 112582781458.0)
 Game 240 possible with price 536423841370
 
-Solution: (141732283881, 157480314990)
+Solution: (141732283881.0, 157480314990.0)
 Game 241 possible with price 614173228851
 
-Solution: (126682502020, 162311955895)
+Solution: (126682502020.0, 162311955895.0)
 Game 242 possible with price 613618369705
 
-Solution: (103914097548, 128160720761)
+Solution: (103914097548.0, 128160720761.0)
 Game 243 possible with price 488396259831
 
-Solution: (149253731229, 149253731778)
+Solution: (149253731229.0, 149253731778.0)
 Game 244 possible with price 597014926563
 
-Solution: (142071494509, 114573785373)
+Solution: (142071494509.0, 114573785373.0)
 Game 245 possible with price 485792850628
 
-Solution: (12400000004237/223, 23600000013157/223)
-A presses are not an integer: 12400000004237/223
+Solution: (55605381184.91928, 105829596471.55606)
+A presses are not close to an integer: 55605381184.91928
+B presses are not close to an integer: 105829596471.55606
 Game 246 impossible
 
-Solution: (179135932639, 273972603165)
+Solution: (179135932639.0, 273972603165.0)
 Game 247 possible with price 1001053742134
 
-Solution: (106007067122, 176678445575)
+Solution: (106007067122.0, 176678445575.0)
 Game 248 possible with price 636042403847
 
-Solution: (113043478309, 173913043611)
+Solution: (113043478309.0, 173913043611.0)
 Game 249 possible with price 634782609142
 
-Solution: (112359550686, 112359550624)
+Solution: (112359550686.0, 112359550624.0)
 Game 250 possible with price 449438202558
 
-Solution: (103771197175, 101240192433)
+Solution: (103771197175.0, 101240192433.0)
 Game 251 possible with price 407491774474
 
-Solution: (179833012737, 122029543797)
+Solution: (179833012737.0, 122029543797.0)
 Game 252 possible with price 545921644128
 
-Solution: (171919771073, 100286533034)
+Solution: (171919771073.0, 100286533034.0)
 Game 253 possible with price 472779370175
 
-Solution: (128534704421, 154241645457)
+Solution: (128534704421.0, 154241645457.0)
 Game 254 possible with price 591259640792
 
-Solution: (172343044814, 127205580642)
+Solution: (172343044814.0, 127205580642.0)
 Game 255 possible with price 553959786740
 
-Solution: (107913669055, 101918465328)
+Solution: (107913669055.0, 101918465328.0)
 Game 256 possible with price 413669065039
 
-Solution: (430000000129601/4469, 260000000321768/4469)
-A presses are not an integer: 430000000129601/4469
+Solution: (96218393405.59431, 58178563509.01051)
+A presses are not close to an integer: 96218393405.59431
+B presses are not close to an integer: 58178563509.01051
 Game 257 impossible
 
-Solution: (259365994528, 144092219001)
+Solution: (259365994528.0, 144092219001.0)
 Game 258 possible with price 691642651531
 
-Solution: (101541933090, 206844678655)
+Solution: (101541933090.0, 206844678655.0)
 Game 259 possible with price 722075969055
 
-Solution: (122743682647, 231046931300)
+Solution: (122743682647.0, 231046931300.0)
 Game 260 possible with price 815884476547
 
-Solution: (470000000435006/5577, 610000000446160/5577)
-A presses are not an integer: 470000000435006/5577
+Solution: (84274699737.31505, 109377801765.49399)
+A presses are not close to an integer: 84274699737.31505
+B presses are not close to an integer: 109377801765.49399
 Game 261 impossible
 
-Solution: (126771066227, 208799403734)
+Solution: (126771066227.0, 208799403734.0)
 Game 262 possible with price 753169277429
 
-Solution: (120000000128122/1363, 530000000029986/1363)
-A presses are not an integer: 120000000128122/1363
+Solution: (88041085934.0587, 388848129148.9259)
+A presses are not close to an integer: 88041085934.0587
+B presses are not close to an integer: 388848129148.9259
 Game 263 impossible
 
-Solution: (149330586872, 123583934343)
+Solution: (149330586872.0, 123583934343.0)
 Game 264 possible with price 520082389901
 
-Solution: (129793510551, 123893805491)
+Solution: (129793510551.0, 123893805491.0)
 Game 265 possible with price 501474927024
 
-Solution: (42500000016731/429, 38750000002145/429)
-A presses are not an integer: 42500000016731/429
+Solution: (99067599106.59906, 90326340331.34033)
+A presses are not close to an integer: 99067599106.59906
+B presses are not close to an integer: 90326340331.34033
 Game 266 impossible
 
-Solution: (175438596497, 116959064547)
+Solution: (175438596497.0, 116959064547.0)
 Game 267 possible with price 526315790138
 
-Solution: (17500000008734/397, 37500000026599/397)
-A presses are not an integer: 17500000008734/397
+Solution: (44080604556.005035, 94458438354.15366)
+A presses are not close to an integer: 44080604556.005035
+B presses are not close to an integer: 94458438354.15366
 Game 268 impossible
 
-Solution: (460000000631179/6507, 70000000062901/723)
-A presses are not an integer: 460000000631179/6507
+Solution: (70693099835.74289, 96818810598.75658)
+A presses are not close to an integer: 70693099835.74289
+B presses are not close to an integer: 96818810598.75658
 Game 269 impossible
 
-Solution: (1500000000703/19, 2000000001254/19)
-A presses are not an integer: 1500000000703/19
+Solution: (78947368458.05263, 105263157960.73685)
+A presses are not close to an integer: 78947368458.05263
+B presses are not close to an integer: 105263157960.73685
 Game 270 impossible
 
-Solution: (105876125103, 108523028102)
+Solution: (105876125103.0, 108523028102.0)
 Game 271 possible with price 431445209409
 
-Solution: (119310649775, 128148475723)
+Solution: (119310649775.0, 128148475723.0)
 Game 272 possible with price 503756076944
 
-Solution: (113452188086, 259319287421)
+Solution: (113452188086.0, 259319287421.0)
 Game 273 possible with price 891410050349
 
-Solution: (640000000301635/6703, 590000000060327/6703)
-A presses are not an integer: 640000000301635/6703
+Solution: (95479636028.88782, 88020289431.64658)
+A presses are not close to an integer: 95479636028.88782
+B presses are not close to an integer: 88020289431.64658
 Game 274 impossible
 
-Solution: (117112810781, 138623327189)
+Solution: (117112810781.0, 138623327189.0)
 Game 275 possible with price 532982792348
 
-Solution: (80000000048393/849, 15000000013018/283)
-A presses are not an integer: 80000000048393/849
+Solution: (94228504179.49706, 53003533614.904594)
+A presses are not close to an integer: 94228504179.49706
+B presses are not close to an integer: 53003533614.904594
 Game 276 impossible
 
-Solution: (102700646718, 144541650820)
+Solution: (102700646718.0, 144541650820.0)
 Game 277 possible with price 536325599178
 
-Solution: (103305785288, 123966942104)
+Solution: (103305785288.0, 123966942104.0)
 Game 278 possible with price 475206611600
 
-Solution: (130000000070091/2261, 690000000201229/2261)
-A presses are not an integer: 130000000070091/2261
+Solution: (57496682914.67979, 305174701548.5312)
+A presses are not close to an integer: 57496682914.67979
+B presses are not close to an integer: 305174701548.5312
 Game 279 impossible
 
-Solution: (135202804538, 145217826703)
+Solution: (135202804538.0, 145217826703.0)
 Game 280 possible with price 570856284647
 
-Solution: (122699386652, 112474437642)
+Solution: (122699386652.0, 112474437642.0)
 Game 281 possible with price 460122699578
 
-Solution: (120000000030580/1529, 12500000009174/139)
-A presses are not an integer: 120000000030580/1529
+Solution: (78482668430.72597, 89928057619.95683)
+A presses are not close to an integer: 78482668430.72597
+B presses are not close to an integer: 89928057619.95683
 Game 282 impossible
 
-Solution: (143678161024, 100574712662)
+Solution: (143678161024.0, 100574712662.0)
 Game 283 possible with price 445402299010
 
-Solution: (235000000074971/949, 5000000001314/73)
-A presses are not an integer: 235000000074971/949
+Solution: (247629083324.5216, 68493150702.9315)
+A presses are not close to an integer: 247629083324.5216
+B presses are not close to an integer: 68493150702.9315
 Game 284 impossible
 
-Solution: (167500000084450/1689, 42500000012949/563)
-A presses are not an integer: 167500000084450/1689
+Solution: (99171107214.00237, 75488454729.92717)
+A presses are not close to an integer: 99171107214.00237
+B presses are not close to an integer: 75488454729.92717
 Game 285 impossible
 
-Solution: (116054158585, 140232108767)
+Solution: (116054158585.0, 140232108767.0)
 Game 286 possible with price 536750484886
 
-Solution: (155279503079, 124223602641)
+Solution: (155279503079.0, 124223602641.0)
 Game 287 possible with price 527950311002
 
-Solution: (13250000011154/143, 1000000000559/13)
-A presses are not an integer: 13250000011154/143
+Solution: (92657342735.34265, 76923076966.07692)
+A presses are not close to an integer: 92657342735.34265
+B presses are not close to an integer: 76923076966.07692
 Game 288 impossible
 
-Solution: (103359173174, 129198966584)
+Solution: (103359173174.0, 129198966584.0)
 Game 289 possible with price 490956072926
 
-Solution: (5000000120771/1491, 15000000005680/71)
-A presses are not an integer: 5000000120771/1491
+Solution: (3353454138.67941, 211267605713.80283)
+A presses are not close to an integer: 3353454138.67941
+B presses are not close to an integer: 211267605713.80283
 Game 290 impossible
 
-Solution: (15500000006201/159, 2500000003604/53)
-A presses are not an integer: 15500000006201/159
+Solution: (97484276768.55975, 47169811388.754715)
+A presses are not close to an integer: 97484276768.55975
+B presses are not close to an integer: 47169811388.754715
 Game 291 impossible
 
-Solution: (118644067909, 161016949440)
+Solution: (118644067909.0, 161016949440.0)
 Game 292 possible with price 601694916229
 
-Solution: (6600000003304/59, 3800000005546/59)
-A presses are not an integer: 6600000003304/59
+Solution: (111864406835.66101, 64406779755.01695)
+A presses are not close to an integer: 111864406835.66101
+B presses are not close to an integer: 64406779755.01695
 Game 293 impossible
 
-Solution: (165631470219, 103519668878)
+Solution: (165631470219.0, 103519668878.0)
 Game 294 possible with price 476190476853
 
-Solution: (35000000041877/517, 45000000013442/517)
-A presses are not an integer: 35000000041877/517
+Solution: (67698259268.62089, 87040618981.51257)
+A presses are not close to an integer: 67698259268.62089
+B presses are not close to an integer: 87040618981.51257
 Game 295 impossible
 
-Solution: (241935483856, 102639296220)
+Solution: (241935483856.0, 102639296220.0)
 Game 296 possible with price 549853372516
 
-Solution: (116279069784, 109819121610)
+Solution: (116279069784.0, 109819121610.0)
 Game 297 possible with price 445736434614
 
-Solution: (196078431435, 326797385783)
+Solution: (196078431435.0, 326797385783.0)
 Game 298 possible with price 1176470588784
 
-Solution: (1000000000588/21, 23000000019173/231)
-A presses are not an integer: 1000000000588/21
+Solution: (47619047647.04762, 99567099650.09956)
+A presses are not close to an integer: 47619047647.04762
+B presses are not close to an integer: 99567099650.09956
 Game 299 impossible
 
-Solution: (155210643301, 133037693823)
+Solution: (155210643301.0, 133037693823.0)
 Game 300 possible with price 554323724770
 
-Solution: (17500000012533/151, 12812500011778/151)
-A presses are not an integer: 17500000012533/151
+Solution: (115894039818.09933, 84850993455.48344)
+A presses are not close to an integer: 115894039818.09933
+B presses are not close to an integer: 84850993455.48344
 Game 301 impossible
 
-Solution: (114822546868, 135699373945)
+Solution: (114822546868.0, 135699373945.0)
 Game 302 possible with price 521920668703
 
-Solution: (580000000091069/5357, 10000000001948/487)
-A presses are not an integer: 580000000091069/5357
+Solution: (108269553871.76945, 20533880907.49076)
+A presses are not close to an integer: 108269553871.76945
+B presses are not close to an integer: 20533880907.49076
 Game 303 impossible
 
-Solution: (105263157903, 105263158154)
+Solution: (105263157903.0, 105263158154.0)
 Game 304 possible with price 421052632365
 
-Solution: (320000000194873/3977, 450000000174988/3977)
-A presses are not an integer: 320000000194873/3977
+Solution: (80462660345.70605, 113150616086.24289)
+A presses are not close to an integer: 80462660345.70605
+B presses are not close to an integer: 113150616086.24289
 Game 305 impossible
 
-Solution: (108527131831, 131782945827)
+Solution: (108527131831.0, 131782945827.0)
 Game 306 possible with price 503875969312
 
-Solution: (116959064418, 165692007971)
+Solution: (116959064418.0, 165692007971.0)
 Game 307 possible with price 614035088331
 
-Solution: (15000000012741/137, 10000000012604/137)
-A presses are not an integer: 15000000012741/137
+Solution: (109489051187.89052, 72992700821.927)
+A presses are not close to an integer: 109489051187.89052
+B presses are not close to an integer: 72992700821.927
 Game 308 impossible
 
-Solution: (135693215623, 165191740547)
+Solution: (135693215623.0, 165191740547.0)
 Game 309 possible with price 631268437264
 
-Solution: (125664572290, 130497825153)
+Solution: (125664572290.0, 130497825153.0)
 Game 310 possible with price 517158047749
 
-Solution: (186335403758, 103519668912)
+Solution: (186335403758.0, 103519668912.0)
 Game 311 possible with price 496894410494
 
-Solution: (10000000008304/173, 80000000023874/519)
-A presses are not an integer: 10000000008304/173
+Solution: (57803468256.09248, 154142581934.24664)
+A presses are not close to an integer: 57803468256.09248
+B presses are not close to an integer: 154142581934.24664
 Game 312 impossible
 
-Solution: (102661597121, 106463878434)
+Solution: (102661597121.0, 106463878434.0)
 Game 313 possible with price 422053232423
 
-Solution: (140466228602, 104602510372)
+Solution: (140466228602.0, 104602510372.0)
 Game 314 possible with price 454273759718
 
-Solution: (132052821499, 252100840367)
+Solution: (132052821499.0, 252100840367.0)
 Game 315 possible with price 888355342600
 
-Solution: (109976433602, 102120974266)
+Solution: (109976433602.0, 102120974266.0)
 Game 316 possible with price 416339356400
 
-Solution: (168026884323, 129620739435)
+Solution: (168026884323.0, 129620739435.0)
 Game 317 possible with price 556889102628
 
-Solution: (198915009069, 108499095950)
+Solution: (198915009069.0, 108499095950.0)
 Game 318 possible with price 524412296919
 
-Solution: (149253731399, 149253731336)
+Solution: (149253731399.0, 149253731336.0)
 Game 319 possible with price 597014925407
 
-Solution: (610000000243640/6091, 410000000225367/6091)
-A presses are not an integer: 610000000243640/6091
+Solution: (100147759028.67181, 67312428209.71384)
+A presses are not close to an integer: 100147759028.67181
+B presses are not close to an integer: 67312428209.71384
 Game 320 impossible
 
 104637185608896

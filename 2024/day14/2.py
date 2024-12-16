@@ -59,23 +59,32 @@ def save_grid(grid):
         for x in range(width):
             pixels[x, y] = 0 if grid[y][x] > 0 else 1  # 0 is black, 1 is white
 
-    image.save(f"2024/day14/images/grid_{_}.png")
-    image.show()
-    image.close()
+    image.save(f"images/grid_{_}.png")
 
 
-for _ in range(1000):
+safety_factor = [0 for _ in range(100)]
+for _ in range(100):
     positions = [
         [0 for _ in range(grid_dimensions[1])] for _ in range(grid_dimensions[0])
     ]
+    quadrants = [0, 0, 0, 0, 0]
+
     for robot in robots:
         robot.move()
         positions[robot.position[0]][robot.position[1]] += 1
+        quadrants[robot.quadrant()] += 1
     print("Grid at second", _)
+    safety_factor[_] = quadrants[0] * quadrants[1] * quadrants[2] * quadrants[3]
     save_grid(positions)
 
 
-safety_factor = quadrants[0] * quadrants[1] * quadrants[2] * quadrants[3]
+import matplotlib.pyplot as plt
+
+plt.plot(safety_factor)
+plt.xlabel("Time (seconds)")
+plt.ylabel("Safety Factor")
+plt.title("Safety Factor Over Time")
+plt.savefig("images/safety_factor_plot.png")
 
 if DEBUG:
     print(f"Quadrants: {quadrants}")
