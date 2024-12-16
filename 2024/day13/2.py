@@ -3,7 +3,7 @@ import math
 from fractions import Fraction
 
 
-DEBUG = True
+DEBUG = False
 offset = 10000000000000
 
 input = sys.stdin.read().strip()
@@ -65,7 +65,7 @@ class Game:
             print(f"B presses are negative: {b_presses}") if DEBUG else None
             return -1
 
-        return a_presses + (b_presses * 3)
+        return (a_presses * 3) + b_presses
 
 
 games = [Game(game) for game in input.split("\n\n")]
