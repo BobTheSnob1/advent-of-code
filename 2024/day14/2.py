@@ -1,5 +1,6 @@
 import sys
 from PIL import Image
+import numpy as np
 
 DEBUG = False
 
@@ -48,43 +49,41 @@ final_positions = [
     [0 for _ in range(grid_dimensions[1])] for _ in range(grid_dimensions[0])
 ]
 
-
-def save_grid(grid):
-    height = len(grid)
-    width = len(grid[0])
-    image = Image.new("1", (width, height))  # "1" for 1-bit pixels, black and white
-    pixels = image.load()
-
-    for y in range(height):
-        for x in range(width):
-            pixels[x, y] = 0 if grid[y][x] > 0 else 1  # 0 is black, 1 is white
-
-    image.save(f"images/grid_{_}.png")
+import matplotlib.pyplot as plt
 
 
-safety_factor = [0 for _ in range(100)]
-for _ in range(100):
-    positions = [
-        [0 for _ in range(grid_dimensions[1])] for _ in range(grid_dimensions[0])
-    ]
-    quadrants = [0, 0, 0, 0, 0]
+def compute_variance(data):
+    mean = sum(data) / len(data)
+    return sum((x - mean) ** 2 for x in data) / len(data)
+
+
+variances = []
+
+for t in range(10000):
+    x_positions = []
+    y_positions = []
 
     for robot in robots:
         robot.move()
-        positions[robot.position[0]][robot.position[1]] += 1
-        quadrants[robot.quadrant()] += 1
-    print("Grid at second", _)
-    safety_factor[_] = quadrants[0] * quadrants[1] * quadrants[2] * quadrants[3]
-    save_grid(positions)
+        x_positions.append(robot.position[0])
+        y_positions.append(robot.position[1])
 
+    x_variance = compute_variance(x_positions)
+    y_variance = compute_variance(y_positions)
+    product_variance = x_variance * y_variance
+    variances.append((t, product_variance))
 
-import matplotlib.pyplot as plt
+# Find the time with the lowest product variance
+min_time, min_variance = min(variances, key=lambda x: x[1])
+print(min_time + 1)
 
-plt.plot(safety_factor)
+# Plot the product variance over time
+times, product_variances = zip(*variances)
+plt.plot(times, product_variances)
 plt.xlabel("Time (seconds)")
-plt.ylabel("Safety Factor")
-plt.title("Safety Factor Over Time")
-plt.savefig("images/safety_factor_plot.png")
+plt.ylabel("Product of Variances")
+plt.title("Product of Variances of Bot Positions Over Time")
+plt.show()
 
 if DEBUG:
     print(f"Quadrants: {quadrants}")
